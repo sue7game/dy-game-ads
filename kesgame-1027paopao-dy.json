@@ -1,0 +1,12 @@
+{
+    "showAdmobInterstitial": true,
+    "changeAdmobBanner": true,
+    "changeAdmobInterstitial": true,
+"admobInterstitialUnit": "ca-app-pub-6305600770385556/1936766072",
+"admobBannerUnit": "ca-app-pub-6305600770385556/9310971014",
+    "showGift": false,
+    "showRate": false,
+    "percent": 20,
+    "rateUrl": "http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1218195300&pageNumber=0&sortOrdering=2&type=Purple+Software&mt=8",
+    "newgame": "http://itunes.apple.com/app/id1296826281",
+}
