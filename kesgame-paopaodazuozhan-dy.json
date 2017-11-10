@@ -1,0 +1,11 @@
+{
+    "showAdmobInterstitial": true,
+    "changeAdmobBanner": true,
+    "changeAdmobInterstitial": true,
+"admobInterstitialUnit": "ca-app-pub-6305600770385556/9486414615",
+"admobBannerUnit": "ca-app-pub-6305600770385556/4429529058",
+    "showGift": false,
+    "showRate": false,
+    "percent": 20,
+    "rateUrl": "itms-apps://itunes.apple.com/cn/app/id1309498259?mt=8&action=write-review",
+}
