@@ -5,7 +5,7 @@
     "admobInterstitialUnit": "ca-app-pub-6305600770385556/2669483573",
     "admobBannerUnit": "ca-app-pub-6305600770385556/1990826724",
     "showGift": true,
-    "showRate": false,
+    "showRate": true,
     "percent": 20,
     "rateUrl": "itms-apps://itunes.apple.com/cn/app/id1296826281?mt=8&action=write-review",
     "newgame": "http://itunes.apple.com/app/id1263846770",
