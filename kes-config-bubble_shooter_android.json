@@ -1,6 +1,6 @@
 {
     "isShowAds": true,
-	"isShowGift": false, 	
+	"isShowGift": true, 	
     "adsPercent": 85,
 	"winLayerPercent": 100,
 	"loseLayerPercent": 100,
