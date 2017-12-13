@@ -3,7 +3,7 @@
     "changeAdmobBanner": true,
     "changeAdmobInterstitial": true,
 "admobInterstitialUnit": "ca-app-pub-6305600770385556/9486414615",
-	"admobBannerUnit": "ca-app-pub-6305600770385556/4429529058",
+"admobBannerUnit": "ca-app-pub-6305600770385556/4429529058",
     "showGift": true,
     "showRate": true,
     "percent": 12,
