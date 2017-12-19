@@ -1,0 +1,21 @@
+{
+    "showAdmobInterstitial": true,
+    "changeAdmobBanner": true,
+    "changeAdmobInterstitial": true,
+    "admobInterstitialUnit": "ca-app-pub-6305600770385556/9486414615",
+    "admobBannerUnit": "ca-app-pub-6305600770385556/4429529058",
+    
+    "admobInterstitialUnit_GJK": "ca-app-pub-7838049369367383/6101300420",
+    "admobBannerUnit_GJK": "ca-app-pub-7838049369367383/2233723169",
+    
+    
+    "gdtBannerId": "2010729806500557",
+    "gdtInterstitalId": "5010321856803578",
+    "gdtKaipingId": "2080124886502569",
+    "gdtAppkey": "1106612760",
+    "showGDT": false,
+    "showGift": true,
+    "showRate": false,
+    "percent": 5,
+    "rateUrl": "itms-apps://itunes.apple.com/cn/app/id1308128255?mt=8&action=write-review",
+}
