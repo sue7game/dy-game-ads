@@ -14,6 +14,7 @@
     "gdtKaipingId": "3080724837783591",
     "gdtAppkey": "1106627858",
     "showGDT": true,
+    "showGDTBanner": true,
     "showGift": true,
     "showRate": true,
     "percent": 20,
