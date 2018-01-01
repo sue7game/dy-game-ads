@@ -18,7 +18,7 @@
     "showGDTKaiping": true,
     "showGift": true,
     "showRate": true,
-    "percent": 20,
-    "percentGDT": 20,
+    "percent": 10,
+    "percentGDT": 0,
     "rateUrl": "itms-apps://itunes.apple.com/cn/app/id1302827330?mt=8&action=write-review",
 }
