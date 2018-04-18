@@ -14,12 +14,11 @@
     "gdtKaipingId": "3080724837783591",
     "gdtAppkey": "1106627858",
     "showGDT": false,
-    "showGDTBanner": true,
-    "showGDTKaiping": true,
+    "showGDTBanner": false,
+    "showGDTKaiping": false,
     "showGift": true,
     "showRate": true,
     "percent": 10,
     "percentGDT": 0,
     "rateUrl": "itms-apps://itunes.apple.com/cn/app/id1373792968?mt=8&action=write-review",
 }
-
